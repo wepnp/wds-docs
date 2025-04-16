@@ -1,0 +1,6 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["wepnp", "wds", "clsx", "tsx", "tsup"],
+  "ignorePaths": ["dist", "node_modules", "**/*.d.ts"]
+}
